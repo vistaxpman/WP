@@ -1,3 +1,4 @@
+https://wordpress.org/plugins/easy-logo-slider/
 https://wordpress.org/plugins/restaurant-manager/screenshots/
 https://wordpress.org/plugins/party-hall-booking-management-system/screenshots/
 https://wordpress.org/plugins/wp-quick-booking-manager/screenshots/
