@@ -15,3 +15,12 @@ https://wordpress.org/plugins/hot-news-manager/screenshots/
 + Sublime Text
 https://packagecontrol.io/installation
 http://www.sublimetext.com/2
+https://github.com/angular-ui/AngularJS-sublime-package/archive/master.zip
+
+
+
+
+
+
+
+
