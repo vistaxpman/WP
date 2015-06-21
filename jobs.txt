@@ -1,0 +1,9 @@
++ Rocketuncle
+- Good knowledge in ASP.NET (5+ years of experience)
+- Good Knowledge in MVC, WCF, WPF, Signal R, Knockout JS, REST API
+- Solid knowledge about Design Pattern, OOP.
+- Good at English
+- Good knowledge of Microsoft SQL Server OR MySQL and SQL language
+- Experience working with agile methodologies
+- Good interpersonal and communication skills
+- Self-motivated, independent, committed 
