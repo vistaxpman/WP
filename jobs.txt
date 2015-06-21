@@ -7,3 +7,93 @@
 - Experience working with agile methodologies
 - Good interpersonal and communication skills
 - Self-motivated, independent, committed 
+
+
+==================================================================
++ Senior Mobile iOS Developer - Posiba Company Limited
+
+ Significant development experience with iOS development using XCode, Objective-C and Cocoa Touch
+- Proven experience working with iOS frameworks such as Core Data, Core Animation, Core Graphics and Core Text
+- Performance analysis and tuning experience including memory usage, CPU utilization, leak checking, etc. on the iOS platform
+- Solid understanding of the full mobile development life cycle
+- Knowledge of Swift is a big plus
+- Experience working with remote data via REST APIs and JSON as well as integrating with third-party libraries and APIs
+- Working experience with Git (or similar version control systems)
+- Well-versed in agile development disciplines and principles (preferably Scrum)
+- Excellent interpersonal and communication skills
+- Ability to multi-task and work across multiple projects
+- BS/MS degree in Computer Science, Engineering or a related subject preferred
+- Excellent written and verbal English skills 
+
+==================================================================
++ Senior PHP Developers - Lazada Tech Hub
+To succeed in your role, you ideally should have:
+● Expert level knowledge of PHP and the according experience
+● A strong sense for code quality, and experience with UT or TDD
+● Knowledge of Zend or Yii Framework
+● Experience working with a large codebase and versioning systems, ideally GIT
+● Worked on tasks that are critical regarding performance or security
+● Proactiveness, team player and positive attitude
+● Intermediate to good english skills
+Any of these would be a big plus:
+● Experience with integrating online payment providers
+● Knowledge of Phalcon Framework
+● Knowledge of Java / Scala / Python or Ruby 
+
+==================================================================
++ Senior PHP Developer - VietnamWorks
+Good knowledge in some back end technologies like Symfony or Zend
+
+Good knowledge in NoSQL databases and Jenkins
+
+Good knowledge in building systems such as ant or Phing
+
+Good knowledge in mobile technologies for ex. Sencha Touch or PhoneGap
+
+Deep architectural understanding of web and mobile applications
+
+Superior creative and innovative problem-solving skills
+
+Initiative and the ability to work independently and in a team
+
+Knowledge in standard front end technologies like HTML5, CSS, Twitter Bootstrap, JavaScript (we use JQuery), REST, JSON, Elastic Search
+
+Knowledge of Open Source libraries, tools and frameworks, e.g. forl logging, wiring, testing, and building. The more the merrier!
+
+Experience with agile software development methodologies like XP and Scrum
+An interest to learn more about new languages and frameworks
+
+Last but not least we expect you to have strong communication skills (English and Vietnamese verbal and written) and preferably 5+ years experience of software development in a similar role 
+
+==================================================================
++ 02 Senior Full-stack (.NET) Developers - Salary Up To 2,200 USD Gross - Fram
+• Strong in .NET C#, ASP.NET MVC, SQL, JavaScript, HTML and CSS
+• Experienced in optimizing and troubleshooting technical issues
+• Strong English communication skills (especially in writing)
+• Experienced in creating/using web services (SOAP and/or REST)
+• Able to write well-structured, maintainable code.
+• You are passionate about what you do and naturally take an interest in the news flow related to your field of expertise as well as make sure you are well informed and up to date on new frameworks and methodologies
+• You have a can-do-attitude and put the goals of the team before your own prestige
+• You are able and hungry to take on a lot of responsibility
+
+
+Nice to have:
+• Git
+• RabbitMQ
+• Elasticsearch
+• NoSQL databases (MongoDB)
+• E-commerce experience
+• Strong in team management 
+
+==============
++ Wordpress Developer - Digital Identity Solutions Europe Oy
+What experience and skills MUST you have for this position?
+
+- 3+ years of experience with WordPress/PHP
+- Custom Post Types, Taxonomies, and Post Meta Fields/Boxes
+- Plugin development process
+- 2+ years of experience with UI/UX Website Usability Design
+- Must Provide Examples or Portfolio of Work
+- Experience with Responsive Web Designs and Techniques
+- Technologies: Wordpress, PHP, CSS, Javascript, JQuery, AJAX, MYSQL
+- Fluent English 
