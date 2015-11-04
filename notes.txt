@@ -1,3 +1,9 @@
+== 04 - 11 - 2015
+contact-form-7\includes\contact-form.php
+	private static function get_unit_tag( $id = 0 ) { -- line 109
+	public function submit( $ajax = false ) { -- control submit data
+
+
 - http://themeforest.net/author/top_authors
 		Đã tìm tới đây 18. ThemeNectar
 
